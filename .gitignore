@@ -1,0 +1,15 @@
+/Library
+/Logs
+/Temp
+/obj
+*.csproj
+*.sln
+/UserSettings
+*.vsconfig
+.vs
+
+.vs/LGU_VirtualOffice_dev_internal/v16/.suo
+Assets/Resources/Prefabs/CharacterCustomizationUI/RoundCornerMaterial/RoundCircleAll.mat
+Assets/Resources/Prefabs/CharacterCustomizationUI/RoundCornerMaterial/roundedCorner.mat
+Assets/Resources/Prefabs/CharacterCustomizationUI/RoundCornerMaterial/RoundCircleAll.mat
+Assets/Resources/Prefabs/CharacterCustomizationUI/RoundCornerMaterial/roundedCorner.mat

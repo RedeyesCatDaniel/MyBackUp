@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/EnterScene/TempEnter.unity
+    guid: 4a2e91b08bf04f447b0595521ad142ab
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: 28ac7b3aa6f82eb4e91d03b1fb751c9b
+  - enabled: 1
+    path: Assets/Scenes/CharacterCustomization/CharacterCustomization.unity
+    guid: ce361952c6c70f044acb8833f4541fea
+  - enabled: 1
+    path: Assets/Scenes/MainScene/MainScene.unity
+    guid: 84eacf9277be701408ab3a6f2e0d1276
+  - enabled: 1
+    path: Assets/Scenes/CharacterCustomization/AvatarTest/BodyMakerTest/BodyMaker.unity
+    guid: b45230021a686d948b579d587f238497
+  - enabled: 1
+    path: Assets/Scenes/CharacterCustomization/AvatarTest/AvatarHighLowSynchronizationTest.unity
+    guid: 7d3b274c26e17be469ce89a2a3e7f1c6
+  - enabled: 1
+    path: Assets/Scenes/CharacterCustomization/AvatarTest/CharacterCustomizationForTest.unity
+    guid: 2c34da217def1e346bd1ee6beb5c0b19
+  - enabled: 1
+    path: Assets/Scenes/TransferStationScene/TransferStation.unity
+    guid: 9df98474ffb5997458dd46ef9e708d67
+  - enabled: 1
+    path: Assets/Scenes/WorkSpace_Main_1228.unity
+    guid: ed7f18e04808e574ca30daf6afb50fb9
+  m_configObjects:
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: ab30a610920f749f2bb6e89392352430, type: 2}
+    com.unity.addressableassets: {fileID: 11400000, guid: 648669ab12b82cb46a2eb22700551e35, type: 2}

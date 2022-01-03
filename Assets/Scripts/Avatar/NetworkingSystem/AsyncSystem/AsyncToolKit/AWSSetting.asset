@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f83d680259bd1f4a81a69f57d70f516, type: 3}
+  m_Name: AWSSetting
+  m_EditorClassIdentifier: 
+  userPoolId: ap-northeast-2_cXeGRmfe4
+  identityPoolId: ap-northeast-2:6cf84a4d-86a1-4473-a877-feec4fa9c2c3
+  clientId: 1uqmf4bftmbjooeh55r7d74oul
+  sqsQueueUrl: https://sqs.ap-northeast-2.amazonaws.com/074097323854/TestQueue
+  region: Asia Pacific (Seoul)
+  userSessionId: 
+  idToken: 
+  accessToken: 
+  refreshToken: 
+  sessionExpiresIn: 150
+  poolRegion: 
+  providerName: 

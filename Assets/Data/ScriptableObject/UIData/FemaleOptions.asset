@@ -1,0 +1,182 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f215d8698c1d74cbfa7a2353126243, type: 3}
+  m_Name: FemaleOptions
+  m_EditorClassIdentifier: 
+  options:
+    kpv:
+    - key:
+        type: 0
+      value:
+      - id: face0
+        sprite: {fileID: 21300000, guid: 2536b0bbb97eaf14db040b6ee6a678dc, type: 3}
+      - id: face1
+        sprite: {fileID: 21300000, guid: aaf0b0b38fe56134c92150a4ee01f16b, type: 3}
+      - id: face2
+        sprite: {fileID: 21300000, guid: 3a6219de122bf904295c8bd58bd28175, type: 3}
+      - id: face3
+        sprite: {fileID: 21300000, guid: 93fc1c1586a07434ab16316cfc3a563c, type: 3}
+      - id: face4
+        sprite: {fileID: 21300000, guid: b5def88be57f42f4d96020cad522b037, type: 3}
+      - id: face5
+        sprite: {fileID: 21300000, guid: 2536b0bbb97eaf14db040b6ee6a678dc, type: 3}
+      - id: face6
+        sprite: {fileID: 21300000, guid: 01015ed8f4f9d8f4bbb7039fb11d7905, type: 3}
+      - id: face7
+        sprite: {fileID: 21300000, guid: 22e514e3956823d41963f48bc9b54a4c, type: 3}
+      - id: face8
+        sprite: {fileID: 21300000, guid: dc46850676ead1843bf48272f8af8a53, type: 3}
+      - id: face9
+        sprite: {fileID: 21300000, guid: a54a49af4db0f93439863158ea13978f, type: 3}
+    - key:
+        type: 3
+      value:
+      - id: eyes0
+        sprite: {fileID: 21300000, guid: 7b67d23d2430e4b4ca8bc85028d944ad, type: 3}
+      - id: eyes1
+        sprite: {fileID: 21300000, guid: 7ed737b26dd1b1b4c8e141b483d103d3, type: 3}
+      - id: eyes2
+        sprite: {fileID: 21300000, guid: 259b05041260d014ea8adc878b01095c, type: 3}
+      - id: eyes3
+        sprite: {fileID: 21300000, guid: d5e9b25309fccfc44894eeddf764c4cf, type: 3}
+      - id: eyes4
+        sprite: {fileID: 21300000, guid: a167cb4752c309d4fa64b4b111babebe, type: 3}
+      - id: eyes5
+        sprite: {fileID: 21300000, guid: 7b67d23d2430e4b4ca8bc85028d944ad, type: 3}
+      - id: eyes6
+        sprite: {fileID: 21300000, guid: 4f4a4ce1ce1c3c344bc7244391adcfd5, type: 3}
+      - id: eyes7
+        sprite: {fileID: 21300000, guid: cf0716054d9926c4680667d1ffb8b099, type: 3}
+      - id: eyes8
+        sprite: {fileID: 21300000, guid: 330f0154784f8e849a7dd2d85b714cd7, type: 3}
+      - id: eyes9
+        sprite: {fileID: 21300000, guid: d37290327fbae064696edbccbd9f2ae4, type: 3}
+    - key:
+        type: 8
+      value:
+      - id: clothing0
+        sprite: {fileID: 21300000, guid: ce29a133b85708f418a46a036c86babe, type: 3}
+      - id: clothing1
+        sprite: {fileID: 21300000, guid: 94f935831ed2a2e4094dc6d9ce528f0f, type: 3}
+      - id: clothing2
+        sprite: {fileID: 21300000, guid: 1808ea9b731989a4c9b7031f90ecde0f, type: 3}
+      - id: clothing3
+        sprite: {fileID: 21300000, guid: d3c6e398ea524a44f804068cf704dda1, type: 3}
+      - id: clothing4
+        sprite: {fileID: 21300000, guid: 721190ebb4d35054c94fc6c00fa05a34, type: 3}
+      - id: clothing5
+        sprite: {fileID: 21300000, guid: 250e9e5e2bcff0645808fe00c5a20668, type: 3}
+    - key:
+        type: 4
+      value:
+      - id: nose0
+        sprite: {fileID: 21300000, guid: 3c7ec72e4986693479aca61a76a86dff, type: 3}
+      - id: nose1
+        sprite: {fileID: 21300000, guid: ea0ae0f431687764d9942494cb0e4106, type: 3}
+      - id: nose2
+        sprite: {fileID: 21300000, guid: 46136d02c429e7d42a9bb512b8973faa, type: 3}
+      - id: nose3
+        sprite: {fileID: 21300000, guid: af4a4cef8d5004b4fa19ccccb835782b, type: 3}
+      - id: nose4
+        sprite: {fileID: 21300000, guid: 5a82fdbacf6a84243a54d78bc61c6701, type: 3}
+      - id: nose5
+        sprite: {fileID: 21300000, guid: 3c7ec72e4986693479aca61a76a86dff, type: 3}
+      - id: nose6
+        sprite: {fileID: 21300000, guid: 012c7434f24c8e04e877345bc3093746, type: 3}
+      - id: nose7
+        sprite: {fileID: 21300000, guid: 8e9bb6a96082ea548bd97bd9b90539c0, type: 3}
+      - id: nose8
+        sprite: {fileID: 21300000, guid: 3ee70a4dac357034993f4452730effc3, type: 3}
+      - id: nose9
+        sprite: {fileID: 21300000, guid: 44c858478cba99b43b5450c05fb4256c, type: 3}
+    - key:
+        type: 5
+      value:
+      - id: mouth0
+        sprite: {fileID: 21300000, guid: 63bbdd6a25944f445ab37031e8494b1e, type: 3}
+      - id: mouth1
+        sprite: {fileID: 21300000, guid: f64772c4fa70e504c8c7cd1695dea7a5, type: 3}
+      - id: mouth2
+        sprite: {fileID: 21300000, guid: 3594008cb05fb574fb3baace76ec35f8, type: 3}
+      - id: mouth3
+        sprite: {fileID: 21300000, guid: cc2d9b3e06b3b5848b90e396535db339, type: 3}
+      - id: mouth4
+        sprite: {fileID: 21300000, guid: 416ed1033d20167498b8969a0ad08efc, type: 3}
+      - id: mouth5
+        sprite: {fileID: 21300000, guid: 63bbdd6a25944f445ab37031e8494b1e, type: 3}
+      - id: mouth6
+        sprite: {fileID: 21300000, guid: 37e7178d9c0da914bbe8ecc067efe299, type: 3}
+      - id: mouth7
+        sprite: {fileID: 21300000, guid: 3dd9fe9f20e5bc04dac6b066ac93f316, type: 3}
+      - id: mouth8
+        sprite: {fileID: 21300000, guid: 5e58014c885ea4e47816822087998797, type: 3}
+      - id: mouth9
+        sprite: {fileID: 21300000, guid: d2ab2e00ae4d5b04fbfa17f0d2895bd3, type: 3}
+    - key:
+        type: 1
+      value:
+      - id: hair0
+        sprite: {fileID: 21300000, guid: c01ee1fa8bc05d84580e7b96331380ac, type: 3}
+      - id: hair1
+        sprite: {fileID: 21300000, guid: c01ee1fa8bc05d84580e7b96331380ac, type: 3}
+      - id: hair2
+        sprite: {fileID: 21300000, guid: 082c15bbb67722640a9bfe01dfa8e9a4, type: 3}
+      - id: hair3
+        sprite: {fileID: 21300000, guid: 07e2f53419964a249a513d718b6bbde4, type: 3}
+      - id: hair4
+        sprite: {fileID: 21300000, guid: b4ecf938c9a03e44ca9da146eb8ebf50, type: 3}
+      - id: hair5
+        sprite: {fileID: 21300000, guid: 29a80031a1b1ecb449eb989d2506d191, type: 3}
+    - key:
+        type: 9
+      value:
+      - id: Background0
+        sprite: {fileID: 21300000, guid: 860ccf210669d2047bc0da07c218f02f, type: 3}
+      - id: Background1
+        sprite: {fileID: 21300000, guid: 7db9d0f3ba4f4164f8588bb16516f5e7, type: 3}
+      - id: Background2
+        sprite: {fileID: 21300000, guid: 70bb5cdd95dde124a8d9aed526df9683, type: 3}
+      - id: Background3
+        sprite: {fileID: 21300000, guid: 35ae99f8dd8d941448416ba1b19ac803, type: 3}
+      - id: Background4
+        sprite: {fileID: 21300000, guid: e20c220836090c84f9cad3bb8eb99f9c, type: 3}
+      - id: Background5
+        sprite: {fileID: 21300000, guid: 0e92a7fa40f479645840443f53bf4454, type: 3}
+      - id: Background6
+        sprite: {fileID: 21300000, guid: 79e71092966a2e6479aff0f9770856dc, type: 3}
+      - id: Background7
+        sprite: {fileID: 21300000, guid: d7d50f27e7d0cd34394144222ff651de, type: 3}
+      - id: Background8
+        sprite: {fileID: 21300000, guid: 3d642e996ce66c143be306bd9c987814, type: 3}
+      - id: Background9
+        sprite: {fileID: 21300000, guid: c80ce5ec3936ed54ebf20172de9aa154, type: 3}
+    - key:
+        type: 2
+      value:
+      - id: eyebrow1
+        sprite: {fileID: 21300000, guid: 0b8ab6fe48f53434c9effdeb861f5c19, type: 3}
+      - id: eyebrow2
+        sprite: {fileID: 21300000, guid: ab78546c5cf8f45458cbcda8e4349221, type: 3}
+      - id: eyebrow3
+        sprite: {fileID: 21300000, guid: b134fced5f8be644983fdbbc7520cd1c, type: 3}
+      - id: eyebrow4
+        sprite: {fileID: 21300000, guid: be751c39fdef8484d8c029e467f81036, type: 3}
+      - id: eyebrow5
+        sprite: {fileID: 21300000, guid: b6e9d9e918df7104c8c2938058228f7b, type: 3}
+      - id: eyebrow6
+        sprite: {fileID: 21300000, guid: f0ff5138b26db014ab52f77ffb433015, type: 3}
+      - id: eyebrow7
+        sprite: {fileID: 21300000, guid: 321c5a3dc3ec072449a1ed69f3a3cc56, type: 3}
+      - id: eyebrow8
+        sprite: {fileID: 21300000, guid: c8a005fb74806ed49a75b2ad85b5b8bb, type: 3}
+      - id: eyebrow9
+        sprite: {fileID: 21300000, guid: 7fa12f003bfd5914293f2b52129e1ba9, type: 3}

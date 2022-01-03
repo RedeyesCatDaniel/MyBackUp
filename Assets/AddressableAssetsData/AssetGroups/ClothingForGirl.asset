@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: ClothingForGirl
+  m_EditorClassIdentifier: 
+  m_GroupName: ClothingForGirl
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 3c67ea14474edba47ac3e2ecbe4f87c4
+  m_SerializeEntries:
+  - m_GUID: 7a76e997c5325d94f9ae302f16e43ff9
+    m_Address: girl_suit3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6d66795a8ee48a143a4007099b60a591
+    m_Address: girl_suit0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 64f167ba87aa456478f448d1dc0f04bc
+    m_Address: girl_suit1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b77a5c9391d48034eb0fb71405dbd719
+    m_Address: girl_suit4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f40c184b230265f4bb55d0608c9f6305
+    m_Address: girl_suit5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ee6611e9b383c4a4aa3ee15f66765641
+    m_Address: girl_suit2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a2ad7d2981c4384499ba82293de74f8c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1f351d26311e34a479a23f5958d67aa7, type: 2}
+    - {fileID: 11400000, guid: 7ab5dbe66b2e39040b326a6662d1d4c0, type: 2}

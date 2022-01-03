@@ -1,0 +1,1532 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 527742048af9fa248ad40ea262245c99, type: 3}
+  m_Name: New Av Modifier Data Collection
+  m_EditorClassIdentifier: 
+  blendShapeModifiers:
+    modifiers:
+      kpv:
+      - key: face0
+        value:
+          blendshapes:
+            kpv:
+            - key: blendShape1.face1_1
+              value: 0
+            - key: blendShape1.face1_2
+              value: 0
+            - key: blendShape1.face1_3
+              value: 0
+            - key: blendShape1.face2_1
+              value: 0
+            - key: blendShape1.face2_2
+              value: 0
+            - key: blendShape1.face2_3
+              value: 0
+            - key: blendShape1.face3_1
+              value: 0
+            - key: blendShape1.face3_2
+              value: 0
+            - key: blendShape1.face3_3
+              value: 0
+          TargetModifier: body
+      - key: face1
+        value:
+          blendshapes:
+            kpv:
+            - key: blendShape1.face1_1
+              value: 100
+            - key: blendShape1.face1_2
+              value: 0
+            - key: blendShape1.face1_3
+              value: 0
+            - key: blendShape1.face2_1
+              value: 0
+            - key: blendShape1.face2_2
+              value: 0
+            - key: blendShape1.face2_3
+              value: 0
+            - key: blendShape1.face3_1
+              value: 0
+            - key: blendShape1.face3_2
+              value: 0
+            - key: blendShape1.face3_3
+              value: 0
+          TargetModifier: body
+      - key: face2
+        value:
+          blendshapes:
+            kpv:
+            - key: blendShape1.face1_1
+              value: 0
+            - key: blendShape1.face1_2
+              value: 100
+            - key: blendShape1.face1_3
+              value: 0
+            - key: blendShape1.face2_1
+              value: 0
+            - key: blendShape1.face2_2
+              value: 0
+            - key: blendShape1.face2_3
+              value: 0
+            - key: blendShape1.face3_1
+              value: 0
+            - key: blendShape1.face3_2
+              value: 0
+            - key: blendShape1.face3_3
+              value: 0
+          TargetModifier: body
+      - key: face3
+        value:
+          blendshapes:
+            kpv:
+            - key: blendShape1.face1_1
+              value: 0
+            - key: blendShape1.face1_2
+              value: 0
+            - key: blendShape1.face1_3
+              value: 100
+            - key: blendShape1.face2_1
+              value: 0
+            - key: blendShape1.face2_2
+              value: 0
+            - key: blendShape1.face2_3
+              value: 0
+            - key: blendShape1.face3_1
+              value: 0
+            - key: blendShape1.face3_2
+              value: 0
+            - key: blendShape1.face3_3
+              value: 0
+          TargetModifier: body
+      - key: face4
+        value:
+          blendshapes:
+            kpv:
+            - key: blendShape1.face1_1
+              value: 0
+            - key: blendShape1.face1_2
+              value: 0
+            - key: blendShape1.face1_3
+              value: 0
+            - key: blendShape1.face2_1
+              value: 100
+            - key: blendShape1.face2_2
+              value: 0
+            - key: blendShape1.face2_3
+              value: 0
+            - key: blendShape1.face3_1
+              value: 0
+            - key: blendShape1.face3_2
+              value: 0
+            - key: blendShape1.face3_3
+              value: 0
+          TargetModifier: body
+      - key: face5
+        value:
+          blendshapes:
+            kpv:
+            - key: blendShape1.face1_1
+              value: 0
+            - key: blendShape1.face1_2
+              value: 0
+            - key: blendShape1.face1_3
+              value: 0
+            - key: blendShape1.face2_1
+              value: 0
+            - key: blendShape1.face2_2
+              value: 100
+            - key: blendShape1.face2_3
+              value: 0
+            - key: blendShape1.face3_1
+              value: 0
+            - key: blendShape1.face3_2
+              value: 0
+            - key: blendShape1.face3_3
+              value: 0
+          TargetModifier: body
+      - key: face6
+        value:
+          blendshapes:
+            kpv:
+            - key: blendShape1.face1_1
+              value: 0
+            - key: blendShape1.face1_2
+              value: 0
+            - key: blendShape1.face1_3
+              value: 0
+            - key: blendShape1.face2_1
+              value: 0
+            - key: blendShape1.face2_2
+              value: 0
+            - key: blendShape1.face2_3
+              value: 100
+            - key: blendShape1.face3_1
+              value: 0
+            - key: blendShape1.face3_2
+              value: 0
+            - key: blendShape1.face3_3
+              value: 0
+          TargetModifier: body
+      - key: face7
+        value:
+          blendshapes:
+            kpv:
+            - key: blendShape1.face1_1
+              value: 0
+            - key: blendShape1.face1_2
+              value: 0
+            - key: blendShape1.face1_3
+              value: 0
+            - key: blendShape1.face2_1
+              value: 0
+            - key: blendShape1.face2_2
+              value: 0
+            - key: blendShape1.face2_3
+              value: 0
+            - key: blendShape1.face3_1
+              value: 100
+            - key: blendShape1.face3_2
+              value: 0
+            - key: blendShape1.face3_3
+              value: 0
+          TargetModifier: body
+      - key: face8
+        value:
+          blendshapes:
+            kpv:
+            - key: blendShape1.face1_1
+              value: 0
+            - key: blendShape1.face1_2
+              value: 0
+            - key: blendShape1.face1_3
+              value: 0
+            - key: blendShape1.face2_1
+              value: 0
+            - key: blendShape1.face2_2
+              value: 0
+            - key: blendShape1.face2_3
+              value: 0
+            - key: blendShape1.face3_1
+              value: 0
+            - key: blendShape1.face3_2
+              value: 100
+            - key: blendShape1.face3_3
+              value: 0
+          TargetModifier: body
+      - key: face9
+        value:
+          blendshapes:
+            kpv:
+            - key: blendShape1.face1_1
+              value: 0
+            - key: blendShape1.face1_2
+              value: 0
+            - key: blendShape1.face1_3
+              value: 0
+            - key: blendShape1.face2_1
+              value: 0
+            - key: blendShape1.face2_2
+              value: 0
+            - key: blendShape1.face2_3
+              value: 0
+            - key: blendShape1.face3_1
+              value: 0
+            - key: blendShape1.face3_2
+              value: 0
+            - key: blendShape1.face3_3
+              value: 100
+          TargetModifier: body
+      - key: eyes0
+        value:
+          blendshapes:
+            kpv:
+            - key: blendShape1.eyes1_1
+              value: 0
+            - key: blendShape1.eyes1_2
+              value: 0
+            - key: blendShape1.eyes1_3
+              value: 0
+            - key: blendShape1.eyes2_1
+              value: 0
+            - key: blendShape1.eyes2_2
+              value: 0
+            - key: blendShape1.eyes2_3
+              value: 0
+            - key: blendShape1.eyes3_1
+              value: 0
+            - key: blendShape1.eyes3_2
+              value: 0
+            - key: blendShape1.eyes3_3
+              value: 0
+          TargetModifier: body
+      - key: eyes1
+        value:
+          blendshapes:
+            kpv:
+            - key: blendShape1.eyes1_1
+              value: 100
+            - key: blendShape1.eyes1_2
+              value: 0
+            - key: blendShape1.eyes1_3
+              value: 0
+            - key: blendShape1.eyes2_1
+              value: 0
+            - key: blendShape1.eyes2_2
+              value: 0
+            - key: blendShape1.eyes2_3
+              value: 0
+            - key: blendShape1.eyes3_1
+              value: 0
+            - key: blendShape1.eyes3_2
+              value: 0
+            - key: blendShape1.eyes3_3
+              value: 0
+          TargetModifier: body
+      - key: eyes2
+        value:
+          blendshapes:
+            kpv:
+            - key: blendShape1.eyes1_1
+              value: 0
+            - key: blendShape1.eyes1_2
+              value: 100
+            - key: blendShape1.eyes1_3
+              value: 0
+            - key: blendShape1.eyes2_1
+              value: 0
+            - key: blendShape1.eyes2_2
+              value: 0
+            - key: blendShape1.eyes2_3
+              value: 0
+            - key: blendShape1.eyes3_1
+              value: 0
+            - key: blendShape1.eyes3_2
+              value: 0
+            - key: blendShape1.eyes3_3
+              value: 0
+          TargetModifier: body
+      - key: eyes3
+        value:
+          blendshapes:
+            kpv:
+            - key: blendShape1.eyes1_1
+              value: 0
+            - key: blendShape1.eyes1_2
+              value: 0
+            - key: blendShape1.eyes1_3
+              value: 100
+            - key: blendShape1.eyes2_1
+              value: 0
+            - key: blendShape1.eyes2_2
+              value: 0
+            - key: blendShape1.eyes2_3
+              value: 0
+            - key: blendShape1.eyes3_1
+              value: 0
+            - key: blendShape1.eyes3_2
+              value: 0
+            - key: blendShape1.eyes3_3
+              value: 0
+          TargetModifier: body
+      - key: eyes4
+        value:
+          blendshapes:
+            kpv:
+            - key: blendShape1.eyes1_1
+              value: 0
+            - key: blendShape1.eyes1_2
+              value: 0
+            - key: blendShape1.eyes1_3
+              value: 0
+            - key: blendShape1.eyes2_1
+              value: 100
+            - key: blendShape1.eyes2_2
+              value: 0
+            - key: blendShape1.eyes2_3
+              value: 0
+            - key: blendShape1.eyes3_1
+              value: 0
+            - key: blendShape1.eyes3_2
+              value: 0
+            - key: blendShape1.eyes3_3
+              value: 0
+          TargetModifier: body
+      - key: eyes5
+        value:
+          blendshapes:
+            kpv:
+            - key: blendShape1.eyes1_1
+              value: 0
+            - key: blendShape1.eyes1_2
+              value: 0
+            - key: blendShape1.eyes1_3
+              value: 0
+            - key: blendShape1.eyes2_1
+              value: 0
+            - key: blendShape1.eyes2_2
+              value: 100
+            - key: blendShape1.eyes2_3
+              value: 0
+            - key: blendShape1.eyes3_1
+              value: 0
+            - key: blendShape1.eyes3_2
+              value: 0
+            - key: blendShape1.eyes3_3
+              value: 0
+          TargetModifier: body
+      - key: eyes6
+        value:
+          blendshapes:
+            kpv:
+            - key: blendShape1.eyes1_1
+              value: 0
+            - key: blendShape1.eyes1_2
+              value: 0
+            - key: blendShape1.eyes1_3
+              value: 0
+            - key: blendShape1.eyes2_1
+              value: 0
+            - key: blendShape1.eyes2_2
+              value: 0
+            - key: blendShape1.eyes2_3
+              value: 100
+            - key: blendShape1.eyes3_1
+              value: 0
+            - key: blendShape1.eyes3_2
+              value: 0
+            - key: blendShape1.eyes3_3
+              value: 0
+          TargetModifier: body
+      - key: eyes7
+        value:
+          blendshapes:
+            kpv:
+            - key: blendShape1.eyes1_1
+              value: 0
+            - key: blendShape1.eyes1_2
+              value: 0
+            - key: blendShape1.eyes1_3
+              value: 0
+            - key: blendShape1.eyes2_1
+              value: 0
+            - key: blendShape1.eyes2_2
+              value: 0
+            - key: blendShape1.eyes2_3
+              value: 0
+            - key: blendShape1.eyes3_1
+              value: 100
+            - key: blendShape1.eyes3_2
+              value: 0
+            - key: blendShape1.eyes3_3
+              value: 0
+          TargetModifier: body
+      - key: eyes8
+        value:
+          blendshapes:
+            kpv:
+            - key: blendShape1.eyes1_1
+              value: 0
+            - key: blendShape1.eyes1_2
+              value: 0
+            - key: blendShape1.eyes1_3
+              value: 0
+            - key: blendShape1.eyes2_1
+              value: 0
+            - key: blendShape1.eyes2_2
+              value: 0
+            - key: blendShape1.eyes2_3
+              value: 0
+            - key: blendShape1.eyes3_1
+              value: 0
+            - key: blendShape1.eyes3_2
+              value: 100
+            - key: blendShape1.eyes3_3
+              value: 0
+          TargetModifier: body
+      - key: eyes9
+        value:
+          blendshapes:
+            kpv:
+            - key: blendShape1.eyes1_1
+              value: 0
+            - key: blendShape1.eyes1_2
+              value: 0
+            - key: blendShape1.eyes1_3
+              value: 0
+            - key: blendShape1.eyes2_1
+              value: 0
+            - key: blendShape1.eyes2_2
+              value: 0
+            - key: blendShape1.eyes2_3
+              value: 0
+            - key: blendShape1.eyes3_1
+              value: 0
+            - key: blendShape1.eyes3_2
+              value: 0
+            - key: blendShape1.eyes3_3
+              value: 100
+          TargetModifier: body
+      - key: mouth0
+        value:
+          blendshapes:
+            kpv:
+            - key: blendShape1.mouth1_1
+              value: 0
+            - key: blendShape1.mouth1_2
+              value: 0
+            - key: blendShape1.mouth1_3
+              value: 0
+            - key: blendShape1.mouth2_1
+              value: 0
+            - key: blendShape1.mouth2_2
+              value: 0
+            - key: blendShape1.mouth2_3
+              value: 0
+            - key: blendShape1.mouth3_1
+              value: 0
+            - key: blendShape1.mouth3_2
+              value: 0
+            - key: blendShape1.mouth3_3
+              value: 0
+          TargetModifier: body
+      - key: mouth1
+        value:
+          blendshapes:
+            kpv:
+            - key: blendShape1.mouth1_1
+              value: 100
+            - key: blendShape1.mouth1_2
+              value: 0
+            - key: blendShape1.mouth1_3
+              value: 0
+            - key: blendShape1.mouth2_1
+              value: 0
+            - key: blendShape1.mouth2_2
+              value: 0
+            - key: blendShape1.mouth2_3
+              value: 0
+            - key: blendShape1.mouth3_1
+              value: 0
+            - key: blendShape1.mouth3_2
+              value: 0
+            - key: blendShape1.mouth3_3
+              value: 0
+          TargetModifier: body
+      - key: mouth2
+        value:
+          blendshapes:
+            kpv:
+            - key: blendShape1.mouth1_1
+              value: 0
+            - key: blendShape1.mouth1_2
+              value: 100
+            - key: blendShape1.mouth1_3
+              value: 0
+            - key: blendShape1.mouth2_1
+              value: 0
+            - key: blendShape1.mouth2_2
+              value: 0
+            - key: blendShape1.mouth2_3
+              value: 0
+            - key: blendShape1.mouth3_1
+              value: 0
+            - key: blendShape1.mouth3_2
+              value: 0
+            - key: blendShape1.mouth3_3
+              value: 0
+          TargetModifier: body
+      - key: mouth3
+        value:
+          blendshapes:
+            kpv:
+            - key: blendShape1.mouth1_1
+              value: 0
+            - key: blendShape1.mouth1_2
+              value: 0
+            - key: blendShape1.mouth1_3
+              value: 100
+            - key: blendShape1.mouth2_1
+              value: 0
+            - key: blendShape1.mouth2_2
+              value: 0
+            - key: blendShape1.mouth2_3
+              value: 0
+            - key: blendShape1.mouth3_1
+              value: 0
+            - key: blendShape1.mouth3_2
+              value: 0
+            - key: blendShape1.mouth3_3
+              value: 0
+          TargetModifier: body
+      - key: mouth4
+        value:
+          blendshapes:
+            kpv:
+            - key: blendShape1.mouth1_1
+              value: 0
+            - key: blendShape1.mouth1_2
+              value: 0
+            - key: blendShape1.mouth1_3
+              value: 0
+            - key: blendShape1.mouth2_1
+              value: 100
+            - key: blendShape1.mouth2_2
+              value: 0
+            - key: blendShape1.mouth2_3
+              value: 0
+            - key: blendShape1.mouth3_1
+              value: 0
+            - key: blendShape1.mouth3_2
+              value: 0
+            - key: blendShape1.mouth3_3
+              value: 0
+          TargetModifier: body
+      - key: mouth5
+        value:
+          blendshapes:
+            kpv:
+            - key: blendShape1.mouth1_1
+              value: 0
+            - key: blendShape1.mouth1_2
+              value: 0
+            - key: blendShape1.mouth1_3
+              value: 0
+            - key: blendShape1.mouth2_1
+              value: 0
+            - key: blendShape1.mouth2_2
+              value: 100
+            - key: blendShape1.mouth2_3
+              value: 0
+            - key: blendShape1.mouth3_1
+              value: 0
+            - key: blendShape1.mouth3_2
+              value: 0
+            - key: blendShape1.mouth3_3
+              value: 0
+          TargetModifier: body
+      - key: mouth6
+        value:
+          blendshapes:
+            kpv:
+            - key: blendShape1.mouth1_1
+              value: 0
+            - key: blendShape1.mouth1_2
+              value: 0
+            - key: blendShape1.mouth1_3
+              value: 0
+            - key: blendShape1.mouth2_1
+              value: 0
+            - key: blendShape1.mouth2_2
+              value: 0
+            - key: blendShape1.mouth2_3
+              value: 100
+            - key: blendShape1.mouth3_1
+              value: 0
+            - key: blendShape1.mouth3_2
+              value: 0
+            - key: blendShape1.mouth3_3
+              value: 0
+          TargetModifier: body
+      - key: mouth7
+        value:
+          blendshapes:
+            kpv:
+            - key: blendShape1.mouth1_1
+              value: 0
+            - key: blendShape1.mouth1_2
+              value: 0
+            - key: blendShape1.mouth1_3
+              value: 0
+            - key: blendShape1.mouth2_1
+              value: 0
+            - key: blendShape1.mouth2_2
+              value: 0
+            - key: blendShape1.mouth2_3
+              value: 0
+            - key: blendShape1.mouth3_1
+              value: 100
+            - key: blendShape1.mouth3_2
+              value: 0
+            - key: blendShape1.mouth3_3
+              value: 0
+          TargetModifier: body
+      - key: mouth8
+        value:
+          blendshapes:
+            kpv:
+            - key: blendShape1.mouth1_1
+              value: 0
+            - key: blendShape1.mouth1_2
+              value: 0
+            - key: blendShape1.mouth1_3
+              value: 0
+            - key: blendShape1.mouth2_1
+              value: 0
+            - key: blendShape1.mouth2_2
+              value: 0
+            - key: blendShape1.mouth2_3
+              value: 0
+            - key: blendShape1.mouth3_1
+              value: 0
+            - key: blendShape1.mouth3_2
+              value: 100
+            - key: blendShape1.mouth3_3
+              value: 0
+          TargetModifier: body
+      - key: mouth9
+        value:
+          blendshapes:
+            kpv:
+            - key: blendShape1.mouth1_1
+              value: 0
+            - key: blendShape1.mouth1_2
+              value: 0
+            - key: blendShape1.mouth1_3
+              value: 0
+            - key: blendShape1.mouth2_1
+              value: 0
+            - key: blendShape1.mouth2_2
+              value: 0
+            - key: blendShape1.mouth2_3
+              value: 0
+            - key: blendShape1.mouth3_1
+              value: 0
+            - key: blendShape1.mouth3_2
+              value: 0
+            - key: blendShape1.mouth3_3
+              value: 100
+          TargetModifier: body
+      - key: nose0
+        value:
+          blendshapes:
+            kpv:
+            - key: blendShape1.nose1_1
+              value: 0
+            - key: blendShape1.nose1_2
+              value: 0
+            - key: blendShape1.nose1_3
+              value: 0
+            - key: blendShape1.nose2_1
+              value: 0
+            - key: blendShape1.nose2_2
+              value: 0
+            - key: blendShape1.nose2_3
+              value: 0
+            - key: blendShape1.nose3_1
+              value: 0
+            - key: blendShape1.nose3_2
+              value: 0
+            - key: blendShape1.nose3_3
+              value: 0
+          TargetModifier: body
+      - key: nose1
+        value:
+          blendshapes:
+            kpv:
+            - key: blendShape1.nose1_1
+              value: 100
+            - key: blendShape1.nose1_2
+              value: 0
+            - key: blendShape1.nose1_3
+              value: 0
+            - key: blendShape1.nose2_1
+              value: 0
+            - key: blendShape1.nose2_2
+              value: 0
+            - key: blendShape1.nose2_3
+              value: 0
+            - key: blendShape1.nose3_1
+              value: 0
+            - key: blendShape1.nose3_2
+              value: 0
+            - key: blendShape1.nose3_3
+              value: 0
+          TargetModifier: body
+      - key: nose2
+        value:
+          blendshapes:
+            kpv:
+            - key: blendShape1.nose1_1
+              value: 0
+            - key: blendShape1.nose1_2
+              value: 100
+            - key: blendShape1.nose1_3
+              value: 0
+            - key: blendShape1.nose2_1
+              value: 0
+            - key: blendShape1.nose2_2
+              value: 0
+            - key: blendShape1.nose2_3
+              value: 0
+            - key: blendShape1.nose3_1
+              value: 0
+            - key: blendShape1.nose3_2
+              value: 0
+            - key: blendShape1.nose3_3
+              value: 0
+          TargetModifier: body
+      - key: nose3
+        value:
+          blendshapes:
+            kpv:
+            - key: blendShape1.nose1_1
+              value: 0
+            - key: blendShape1.nose1_2
+              value: 0
+            - key: blendShape1.nose1_3
+              value: 100
+            - key: blendShape1.nose2_1
+              value: 0
+            - key: blendShape1.nose2_2
+              value: 0
+            - key: blendShape1.nose2_3
+              value: 0
+            - key: blendShape1.nose3_1
+              value: 0
+            - key: blendShape1.nose3_2
+              value: 0
+            - key: blendShape1.nose3_3
+              value: 0
+          TargetModifier: body
+      - key: nose4
+        value:
+          blendshapes:
+            kpv:
+            - key: blendShape1.nose1_1
+              value: 0
+            - key: blendShape1.nose1_2
+              value: 0
+            - key: blendShape1.nose1_3
+              value: 0
+            - key: blendShape1.nose2_1
+              value: 100
+            - key: blendShape1.nose2_2
+              value: 0
+            - key: blendShape1.nose2_3
+              value: 0
+            - key: blendShape1.nose3_1
+              value: 0
+            - key: blendShape1.nose3_2
+              value: 0
+            - key: blendShape1.nose3_3
+              value: 0
+          TargetModifier: body
+      - key: nose5
+        value:
+          blendshapes:
+            kpv:
+            - key: blendShape1.nose1_1
+              value: 0
+            - key: blendShape1.nose1_2
+              value: 0
+            - key: blendShape1.nose1_3
+              value: 0
+            - key: blendShape1.nose2_1
+              value: 0
+            - key: blendShape1.nose2_2
+              value: 100
+            - key: blendShape1.nose2_3
+              value: 0
+            - key: blendShape1.nose3_1
+              value: 0
+            - key: blendShape1.nose3_2
+              value: 0
+            - key: blendShape1.nose3_3
+              value: 0
+          TargetModifier: body
+      - key: nose6
+        value:
+          blendshapes:
+            kpv:
+            - key: blendShape1.nose1_1
+              value: 0
+            - key: blendShape1.nose1_2
+              value: 0
+            - key: blendShape1.nose1_3
+              value: 0
+            - key: blendShape1.nose2_1
+              value: 0
+            - key: blendShape1.nose2_2
+              value: 0
+            - key: blendShape1.nose2_3
+              value: 100
+            - key: blendShape1.nose3_1
+              value: 0
+            - key: blendShape1.nose3_2
+              value: 0
+            - key: blendShape1.nose3_3
+              value: 0
+          TargetModifier: body
+      - key: nose7
+        value:
+          blendshapes:
+            kpv:
+            - key: blendShape1.nose1_1
+              value: 0
+            - key: blendShape1.nose1_2
+              value: 0
+            - key: blendShape1.nose1_3
+              value: 0
+            - key: blendShape1.nose2_1
+              value: 0
+            - key: blendShape1.nose2_2
+              value: 0
+            - key: blendShape1.nose2_3
+              value: 0
+            - key: blendShape1.nose3_1
+              value: 100
+            - key: blendShape1.nose3_2
+              value: 0
+            - key: blendShape1.nose3_3
+              value: 0
+          TargetModifier: body
+      - key: nose8
+        value:
+          blendshapes:
+            kpv:
+            - key: blendShape1.nose1_1
+              value: 0
+            - key: blendShape1.nose1_2
+              value: 0
+            - key: blendShape1.nose1_3
+              value: 0
+            - key: blendShape1.nose2_1
+              value: 0
+            - key: blendShape1.nose2_2
+              value: 0
+            - key: blendShape1.nose2_3
+              value: 0
+            - key: blendShape1.nose3_1
+              value: 0
+            - key: blendShape1.nose3_2
+              value: 100
+            - key: blendShape1.nose3_3
+              value: 0
+          TargetModifier: body
+      - key: nose9
+        value:
+          blendshapes:
+            kpv:
+            - key: blendShape1.nose1_1
+              value: 0
+            - key: blendShape1.nose1_2
+              value: 0
+            - key: blendShape1.nose1_3
+              value: 0
+            - key: blendShape1.nose2_1
+              value: 0
+            - key: blendShape1.nose2_2
+              value: 0
+            - key: blendShape1.nose2_3
+              value: 0
+            - key: blendShape1.nose3_1
+              value: 0
+            - key: blendShape1.nose3_2
+              value: 0
+            - key: blendShape1.nose3_3
+              value: 100
+          TargetModifier: body
+  colorModifiers:
+    modifiers:
+      kpv:
+      - key: 
+        value:
+          group:
+            type: 0
+          color: {r: 0.9607844, g: 0.80392164, b: 0.6745098, a: 1}
+      - key: 
+        value:
+          group:
+            type: 0
+          color: {r: 0.9568628, g: 0.76470596, b: 0.62352943, a: 1}
+      - key: 
+        value:
+          group:
+            type: 0
+          color: {r: 0.9215687, g: 0.6862745, b: 0.53333336, a: 1}
+      - key: 
+        value:
+          group:
+            type: 0
+          color: {r: 0.83921576, g: 0.60784316, b: 0.45098042, a: 1}
+      - key: 
+        value:
+          group:
+            type: 0
+          color: {r: 0.6745098, g: 0.45882356, b: 0.31764707, a: 1}
+      - key: 
+        value:
+          group:
+            type: 0
+          color: {r: 0.5254902, g: 0.34901962, b: 0.22352943, a: 1}
+      - key: 
+        value:
+          group:
+            type: 0
+          color: {r: 0.43529415, g: 0.29803923, b: 0.20000002, a: 1}
+      - key: 
+        value:
+          group:
+            type: 0
+          color: {r: 0.3372549, g: 0.22352943, b: 0.16078432, a: 1}
+      - key: 
+        value:
+          group:
+            type: 1
+          color: {r: 0.68235296, g: 0.68235296, b: 0.67058825, a: 1}
+      - key: 
+        value:
+          group:
+            type: 1
+          color: {r: 0.1764706, g: 0.16470589, b: 0.15686275, a: 1}
+      - key: 
+        value:
+          group:
+            type: 1
+          color: {r: 0.32156864, g: 0.23529413, b: 0.18431373, a: 1}
+      - key: 
+        value:
+          group:
+            type: 1
+          color: {r: 0.47450984, g: 0.29411766, b: 0.14117648, a: 1}
+      - key: 
+        value:
+          group:
+            type: 1
+          color: {r: 0.5647059, g: 0.25490198, b: 0.15686275, a: 1}
+      - key: 
+        value:
+          group:
+            type: 1
+          color: {r: 0.83921576, g: 0.4666667, b: 0.078431375, a: 1}
+      - key: 
+        value:
+          group:
+            type: 1
+          color: {r: 0.89019614, g: 0.7176471, b: 0.5254902, a: 1}
+      - key: 
+        value:
+          group:
+            type: 1
+          color: {r: 1, g: 0.8705883, b: 0.5568628, a: 1}
+      - key: 
+        value:
+          group:
+            type: 2
+          color: {r: 0.68235296, g: 0.68235296, b: 0.67058825, a: 1}
+      - key: 
+        value:
+          group:
+            type: 2
+          color: {r: 0.1764706, g: 0.16470589, b: 0.15686275, a: 1}
+      - key: 
+        value:
+          group:
+            type: 2
+          color: {r: 0.32156864, g: 0.23529413, b: 0.18431373, a: 1}
+      - key: 
+        value:
+          group:
+            type: 2
+          color: {r: 0.47450984, g: 0.29411766, b: 0.14117648, a: 1}
+      - key: 
+        value:
+          group:
+            type: 2
+          color: {r: 0.5647059, g: 0.25490198, b: 0.15686275, a: 1}
+      - key: 
+        value:
+          group:
+            type: 2
+          color: {r: 0.83921576, g: 0.4666667, b: 0.078431375, a: 1}
+      - key: 
+        value:
+          group:
+            type: 2
+          color: {r: 0.89019614, g: 0.7176471, b: 0.5254902, a: 1}
+      - key: 
+        value:
+          group:
+            type: 2
+          color: {r: 1, g: 0.8705883, b: 0.5568628, a: 1}
+      - key: 
+        value:
+          group:
+            type: 3
+          color: {r: 0.1764706, g: 0.16470589, b: 0.15686275, a: 1}
+      - key: 
+        value:
+          group:
+            type: 3
+          color: {r: 0.61960787, g: 0.39607847, b: 0.13333334, a: 1}
+      - key: 
+        value:
+          group:
+            type: 3
+          color: {r: 0.60784316, g: 0.6156863, b: 0.32156864, a: 1}
+      - key: 
+        value:
+          group:
+            type: 3
+          color: {r: 0.4784314, g: 0.6313726, b: 0.654902, a: 1}
+      - key: 
+        value:
+          group:
+            type: 3
+          color: {r: 0.7019608, g: 0.70980394, b: 0.7294118, a: 1}
+      - key: 
+        value:
+          group:
+            type: 3
+          color: {r: 1, g: 0.8705883, b: 0.5568628, a: 1}
+      - key: 
+        value:
+          group:
+            type: 5
+          color: {r: 0.7176471, g: 0.5058824, b: 0.43921572, a: 1}
+      - key: 
+        value:
+          group:
+            type: 5
+          color: {r: 0.94117653, g: 0.35686275, b: 0.57254905, a: 1}
+      - key: 
+        value:
+          group:
+            type: 5
+          color: {r: 0.83921576, g: 0.08235294, b: 0.20392159, a: 1}
+      - key: 
+        value:
+          group:
+            type: 5
+          color: {r: 0.6745098, g: 0.13333334, b: 0.4901961, a: 1}
+      - key: 
+        value:
+          group:
+            type: 5
+          color: {r: 0.9176471, g: 0.45098042, b: 0.24313727, a: 1}
+      - key: 
+        value:
+          group:
+            type: 5
+          color: {r: 0.7137255, g: 0.3803922, b: 0.4666667, a: 1}
+      - key: 
+        value:
+          group:
+            type: 5
+          color: {r: 0.34901962, g: 0.29411766, b: 0.3647059, a: 1}
+      - key: 
+        value:
+          group:
+            type: 5
+          color: {r: 0.1764706, g: 0.16470589, b: 0.15686275, a: 1}
+      - key: 
+        value:
+          group:
+            type: 6
+          color: {r: 0.9058824, g: 0.90196085, b: 0.90196085, a: 1}
+      - key: 
+        value:
+          group:
+            type: 6
+          color: {r: 0.1764706, g: 0.16470589, b: 0.15686275, a: 1}
+      - key: 
+        value:
+          group:
+            type: 6
+          color: {r: 0.82745105, g: 0.19607845, b: 0.10980393, a: 1}
+      - key: 
+        value:
+          group:
+            type: 6
+          color: {r: 0.94117653, g: 0.50980395, b: 0.015686275, a: 1}
+      - key: 
+        value:
+          group:
+            type: 6
+          color: {r: 1, g: 0.8117648, b: 0.21568629, a: 1}
+      - key: 
+        value:
+          group:
+            type: 6
+          color: {r: 0.43921572, g: 0.73333335, b: 0.14901961, a: 1}
+      - key: 
+        value:
+          group:
+            type: 6
+          color: {r: 0.3254902, g: 0.5882353, b: 0.9843138, a: 1}
+      - key: 
+        value:
+          group:
+            type: 6
+          color: {r: 0.5803922, g: 0.44705886, b: 0.9333334, a: 1}
+      - key: 
+        value:
+          group:
+            type: 7
+          color: {r: 0.68235296, g: 0.68235296, b: 0.67058825, a: 1}
+      - key: 
+        value:
+          group:
+            type: 7
+          color: {r: 0.1764706, g: 0.16470589, b: 0.15686275, a: 1}
+      - key: 
+        value:
+          group:
+            type: 7
+          color: {r: 0.32156864, g: 0.23529413, b: 0.18431373, a: 1}
+      - key: 
+        value:
+          group:
+            type: 7
+          color: {r: 0.47450984, g: 0.29411766, b: 0.14117648, a: 1}
+      - key: 
+        value:
+          group:
+            type: 7
+          color: {r: 0.5647059, g: 0.25490198, b: 0.15686275, a: 1}
+      - key: 
+        value:
+          group:
+            type: 7
+          color: {r: 0.83921576, g: 0.4666667, b: 0.078431375, a: 1}
+      - key: 
+        value:
+          group:
+            type: 7
+          color: {r: 0.89019614, g: 0.7176471, b: 0.5254902, a: 1}
+      - key: 
+        value:
+          group:
+            type: 7
+          color: {r: 1, g: 0.8705883, b: 0.5568628, a: 1}
+      - key: 
+        value:
+          group:
+            type: 8
+          color: {r: 0.9058824, g: 0.90196085, b: 0.90196085, a: 1}
+      - key: 
+        value:
+          group:
+            type: 8
+          color: {r: 0.1764706, g: 0.16470589, b: 0.15686275, a: 1}
+      - key: 
+        value:
+          group:
+            type: 8
+          color: {r: 0.82745105, g: 0.19607845, b: 0.10980393, a: 1}
+      - key: 
+        value:
+          group:
+            type: 8
+          color: {r: 0.94117653, g: 0.50980395, b: 0.015686275, a: 1}
+      - key: 
+        value:
+          group:
+            type: 8
+          color: {r: 1, g: 0.8117648, b: 0.21568629, a: 1}
+      - key: 
+        value:
+          group:
+            type: 8
+          color: {r: 0.43921572, g: 0.73333335, b: 0.14901961, a: 1}
+      - key: 
+        value:
+          group:
+            type: 8
+          color: {r: 0.3254902, g: 0.5882353, b: 0.9843138, a: 1}
+      - key: 
+        value:
+          group:
+            type: 8
+          color: {r: 0.5803922, g: 0.44705886, b: 0.9333334, a: 1}
+  meshModifiers:
+    modifiers:
+      kpv: []
+  lowMeshModifiers:
+    modifiers:
+      kpv: []
+  smrModifiers:
+    modifiers:
+      kpv:
+      - key: clothing0
+        value:
+          allRenderer:
+          - m_AssetGUID: 6d66795a8ee48a143a4007099b60a591
+            m_SubObjectName: shoes
+            m_SubObjectType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+              Culture=neutral, PublicKeyToken=null
+            m_EditorAssetChanged: 0
+          - m_AssetGUID: 6d66795a8ee48a143a4007099b60a591
+            m_SubObjectName: shirt
+            m_SubObjectType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+              Culture=neutral, PublicKeyToken=null
+            m_EditorAssetChanged: 0
+          - m_AssetGUID: 6d66795a8ee48a143a4007099b60a591
+            m_SubObjectName: trousers
+            m_SubObjectType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+              Culture=neutral, PublicKeyToken=null
+            m_EditorAssetChanged: 0
+          optionId: Clothing
+      - key: clothing1
+        value:
+          allRenderer:
+          - m_AssetGUID: 64f167ba87aa456478f448d1dc0f04bc
+            m_SubObjectName: shoes
+            m_SubObjectType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+              Culture=neutral, PublicKeyToken=null
+            m_EditorAssetChanged: 0
+          - m_AssetGUID: 64f167ba87aa456478f448d1dc0f04bc
+            m_SubObjectName: suit
+            m_SubObjectType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+              Culture=neutral, PublicKeyToken=null
+            m_EditorAssetChanged: 0
+          - m_AssetGUID: 64f167ba87aa456478f448d1dc0f04bc
+            m_SubObjectName: trousers
+            m_SubObjectType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+              Culture=neutral, PublicKeyToken=null
+            m_EditorAssetChanged: 0
+          optionId: Clothing
+      - key: clothing2
+        value:
+          allRenderer:
+          - m_AssetGUID: ee6611e9b383c4a4aa3ee15f66765641
+            m_SubObjectName: shoes
+            m_SubObjectType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+              Culture=neutral, PublicKeyToken=null
+            m_EditorAssetChanged: 0
+          - m_AssetGUID: ee6611e9b383c4a4aa3ee15f66765641
+            m_SubObjectName: trousers
+            m_SubObjectType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+              Culture=neutral, PublicKeyToken=null
+            m_EditorAssetChanged: 0
+          - m_AssetGUID: ee6611e9b383c4a4aa3ee15f66765641
+            m_SubObjectName: suit
+            m_SubObjectType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+              Culture=neutral, PublicKeyToken=null
+            m_EditorAssetChanged: 0
+          optionId: Clothing
+      - key: clothing3
+        value:
+          allRenderer:
+          - m_AssetGUID: 7a76e997c5325d94f9ae302f16e43ff9
+            m_SubObjectName: shoes
+            m_SubObjectType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+              Culture=neutral, PublicKeyToken=null
+            m_EditorAssetChanged: 0
+          - m_AssetGUID: 7a76e997c5325d94f9ae302f16e43ff9
+            m_SubObjectName: suit
+            m_SubObjectType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+              Culture=neutral, PublicKeyToken=null
+            m_EditorAssetChanged: 0
+          - m_AssetGUID: 7a76e997c5325d94f9ae302f16e43ff9
+            m_SubObjectName: trousers
+            m_SubObjectType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+              Culture=neutral, PublicKeyToken=null
+            m_EditorAssetChanged: 0
+          optionId: Clothing
+      - key: clothing4
+        value:
+          allRenderer:
+          - m_AssetGUID: b77a5c9391d48034eb0fb71405dbd719
+            m_SubObjectName: shoes
+            m_SubObjectType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+              Culture=neutral, PublicKeyToken=null
+            m_EditorAssetChanged: 0
+          - m_AssetGUID: b77a5c9391d48034eb0fb71405dbd719
+            m_SubObjectName: suit
+            m_SubObjectType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+              Culture=neutral, PublicKeyToken=null
+            m_EditorAssetChanged: 0
+          - m_AssetGUID: b77a5c9391d48034eb0fb71405dbd719
+            m_SubObjectName: trousers
+            m_SubObjectType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+              Culture=neutral, PublicKeyToken=null
+            m_EditorAssetChanged: 0
+          - m_AssetGUID: b77a5c9391d48034eb0fb71405dbd719
+            m_SubObjectName: shirt
+            m_SubObjectType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+              Culture=neutral, PublicKeyToken=null
+            m_EditorAssetChanged: 0
+          optionId: Clothing
+      - key: clothing5
+        value:
+          allRenderer:
+          - m_AssetGUID: f40c184b230265f4bb55d0608c9f6305
+            m_SubObjectName: Woman_suit05_shirt
+            m_SubObjectType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+              Culture=neutral, PublicKeyToken=null
+            m_EditorAssetChanged: 0
+          - m_AssetGUID: f40c184b230265f4bb55d0608c9f6305
+            m_SubObjectName: Woman_suit05_shoes
+            m_SubObjectType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+              Culture=neutral, PublicKeyToken=null
+            m_EditorAssetChanged: 0
+          - m_AssetGUID: f40c184b230265f4bb55d0608c9f6305
+            m_SubObjectName: Woman_suit05_suit
+            m_SubObjectType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+              Culture=neutral, PublicKeyToken=null
+            m_EditorAssetChanged: 0
+          - m_AssetGUID: f40c184b230265f4bb55d0608c9f6305
+            m_SubObjectName: Woman_suit05_tie
+            m_SubObjectType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+              Culture=neutral, PublicKeyToken=null
+            m_EditorAssetChanged: 0
+          - m_AssetGUID: f40c184b230265f4bb55d0608c9f6305
+            m_SubObjectName: Woman_suit05_trousers
+            m_SubObjectType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+              Culture=neutral, PublicKeyToken=null
+            m_EditorAssetChanged: 0
+          optionId: Clothing
+      - key: hair0
+        value:
+          allRenderer:
+          - m_AssetGUID: 6d66795a8ee48a143a4007099b60a591
+            m_SubObjectName: hair
+            m_SubObjectType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+              Culture=neutral, PublicKeyToken=null
+            m_EditorAssetChanged: 0
+          optionId: Hair
+      - key: hair1
+        value:
+          allRenderer:
+          - m_AssetGUID: 64f167ba87aa456478f448d1dc0f04bc
+            m_SubObjectName: hair_geo
+            m_SubObjectType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+              Culture=neutral, PublicKeyToken=null
+            m_EditorAssetChanged: 0
+          optionId: Hair
+      - key: hair2
+        value:
+          allRenderer:
+          - m_AssetGUID: ee6611e9b383c4a4aa3ee15f66765641
+            m_SubObjectName: hair_geo
+            m_SubObjectType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+              Culture=neutral, PublicKeyToken=null
+            m_EditorAssetChanged: 0
+          optionId: Hair
+      - key: hair3
+        value:
+          allRenderer:
+          - m_AssetGUID: 7a76e997c5325d94f9ae302f16e43ff9
+            m_SubObjectName: hair_geo
+            m_SubObjectType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+              Culture=neutral, PublicKeyToken=null
+            m_EditorAssetChanged: 0
+          optionId: Hair
+      - key: hair4
+        value:
+          allRenderer:
+          - m_AssetGUID: b77a5c9391d48034eb0fb71405dbd719
+            m_SubObjectName: hair_geo
+            m_SubObjectType: UnityEngine.Mesh, UnityEngine.CoreModule, Version=0.0.0.0,
+              Culture=neutral, PublicKeyToken=null
+            m_EditorAssetChanged: 0
+          optionId: Hair
+      - key: hair5
+        value:
+          allRenderer:
+          - m_AssetGUID: f40c184b230265f4bb55d0608c9f6305
+            m_SubObjectName: Woman_suit05_hair
+            m_SubObjectType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+              Culture=neutral, PublicKeyToken=null
+            m_EditorAssetChanged: 0
+          optionId: Hair
+  backgroundModifiers:
+    modifiers:
+      kpv:
+      - key: Background0
+        value:
+          skyBoxMaterial: {fileID: 2100000, guid: 9551938c1ea49e5498adc2dce34a1636, type: 2}
+      - key: Background1
+        value:
+          skyBoxMaterial: {fileID: 2100000, guid: 79808df3659cb9c41972d106809aec03, type: 2}
+      - key: Background2
+        value:
+          skyBoxMaterial: {fileID: 2100000, guid: 47ff4345ea7bc2345a5765e734b03b98, type: 2}
+      - key: Background3
+        value:
+          skyBoxMaterial: {fileID: 2100000, guid: b27ee88681880fa42bf1fa6e924ca932, type: 2}
+      - key: Background4
+        value:
+          skyBoxMaterial: {fileID: 2100000, guid: 340a36e8c75befd479b044bd65211d3e, type: 2}
+      - key: Background5
+        value:
+          skyBoxMaterial: {fileID: 2100000, guid: e8e5d6f176ee50d48bb7297bb2258bb6, type: 2}
+      - key: Background6
+        value:
+          skyBoxMaterial: {fileID: 2100000, guid: 7f34071a18ef9ad448e1996bb4ffddb5, type: 2}
+      - key: Background7
+        value:
+          skyBoxMaterial: {fileID: 2100000, guid: 462dcb470274b0442a6fd48e5b38ae23, type: 2}
+      - key: Background8
+        value:
+          skyBoxMaterial: {fileID: 2100000, guid: ec3308e98995a40428d02552ea289697, type: 2}
+      - key: Background9
+        value:
+          skyBoxMaterial: {fileID: 2100000, guid: ff79c8ca06a1b7e419137f9c859472a4, type: 2}
+  textureModifier:
+    modifiers:
+      kpv:
+      - key: eyebrow9
+        value:
+          textureName: _BaseMap
+          texture: {fileID: 2800000, guid: 35ddebbcf24136744a6fda3c7236f449, type: 3}
+          group:
+            type: 2
+      - key: eyebrow8
+        value:
+          textureName: _BaseMap
+          texture: {fileID: 2800000, guid: c7b0ee359e0993e47892432072f679a4, type: 3}
+          group:
+            type: 2
+      - key: eyebrow7
+        value:
+          textureName: _BaseMap
+          texture: {fileID: 2800000, guid: 2f785431ef759cf4d869e0086037b551, type: 3}
+          group:
+            type: 2
+      - key: eyebrow6
+        value:
+          textureName: _BaseMap
+          texture: {fileID: 2800000, guid: 1aa10b14e24b91c4ea9b23fcf1e5afc5, type: 3}
+          group:
+            type: 2
+      - key: eyebrow5
+        value:
+          textureName: _BaseMap
+          texture: {fileID: 2800000, guid: 17e6be0f2b5e1a74581fea599e6fb55c, type: 3}
+          group:
+            type: 2
+      - key: eyebrow4
+        value:
+          textureName: _BaseMap
+          texture: {fileID: 2800000, guid: 9bc08be5b3f4cb84b8c1e6e080ca2863, type: 3}
+          group:
+            type: 2
+      - key: eyebrow3
+        value:
+          textureName: _BaseMap
+          texture: {fileID: 2800000, guid: 6c4d347ea719df049bb4b3fe22a0fca7, type: 3}
+          group:
+            type: 2
+      - key: eyebrow2
+        value:
+          textureName: _BaseMap
+          texture: {fileID: 2800000, guid: bb2e53f7b5fe74749adcd73f15747c45, type: 3}
+          group:
+            type: 2
+      - key: eyebrow1
+        value:
+          textureName: _BaseMap
+          texture: {fileID: 2800000, guid: d4c144a8e7459d94fb71b45b835efd5a, type: 3}
+          group:
+            type: 2

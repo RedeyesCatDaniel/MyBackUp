@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ec100838a7dce9479382378ce501c57, type: 3}
+  m_Name: Buffering
+  m_EditorClassIdentifier: 
+  loadingScene: {fileID: 5552614760026208305, guid: c89ea96d49628fe41a4083b669bf4861, type: 3}

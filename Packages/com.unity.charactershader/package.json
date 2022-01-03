@@ -1,0 +1,48 @@
+{
+  "name": "com.unity.charactershader",
+  "description": "The Character Shaders that supports for Universal Render Pipeline (URP).\n\nSupport platforms from mobile to high-end consoles and PC.\n\nPrerequisite\r:\nURP version 12.x.x & Unity Editor version 2021.2.x or Newer",
+  "version": "12.0.0",
+  "unity": "2021.2",
+  "unityRelease": "0a19",
+  "displayName": "Unity Character Shaders",
+  "keywords": [
+    "character",
+    "hair",
+    "eye",
+    "fabric",
+    "skin",
+    "specular occlusion",
+    "shader"
+  ],
+  "samples": [
+    {
+      "displayName": "Hair Sample",
+      "description": "This is a Hair example.",
+      "path": "Samples~/Hair Sample"
+    },
+    {
+      "displayName": "Eye Sample",
+      "description": "This is an Eye example.",
+      "path": "Samples~/Eye Sample"
+    },
+    {
+      "displayName": "Fabric Sample",
+      "description": "This is a Fabric example.",
+      "path": "Samples~/Fabric Sample"
+    },
+    {
+      "displayName": "Skin (Head) Sample",
+      "description": "This is a Skin example.",
+      "path": "Samples~/Skin Sample"
+    },
+    {
+      "displayName": "Specular Occlusion Sample",
+      "description": "This is a Specular Occlusion example.",
+      "path": "Samples~/Specular Occlusion Sample"
+    }
+  ],
+  "repository": {
+    "url": "",
+    "type": "git"
+  }
+}

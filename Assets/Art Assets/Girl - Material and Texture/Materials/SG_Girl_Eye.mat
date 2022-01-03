@@ -1,0 +1,211 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-4928560345579568508
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 5
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SG_Girl_Eye
+  m_Shader: {fileID: -6465566751694194690, guid: 780f1bc772ba0394f9302579d2dfbbad, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_191b11528f634f43a70c17c26de61c83:
+        m_Texture: {fileID: 2800000, guid: 5f54b1cc90a614148ad37f3048d7d715, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_2094c74b6a734b3fbbba238bf7bf9d26:
+        m_Texture: {fileID: 2800000, guid: b98695a77e365b94e945cf40196a5d50, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_3077d3d641a74761abb5bfbe6cbca0e0:
+        m_Texture: {fileID: 2800000, guid: d9f5e24751a1c494286558f878b31ca4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_487499ff3d934e6092cc121e7d348b19:
+        m_Texture: {fileID: 2800000, guid: d83569818bf4afd4796f7d58a4e910fb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_5c8bcf9a9b9240d9944327bdf6f23847:
+        m_Texture: {fileID: 2800000, guid: ff0dd5cc48478a6499e260b882b0131b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_794d31c36e5547219b1bcca4569681ab:
+        m_Texture: {fileID: 2800000, guid: 7fa68cfc516cf8d4f9eab56101a39bc3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_7e0e76e2d2674a2995305ac669283cff:
+        m_Texture: {fileID: 2800000, guid: 006982230a58b2e4da0cfee172cba9f8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_a32345c5644e4806a6f8c6fa3ab36945:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_a49416d1838c4a43bc86caa7f12e6f86:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_be7de5ad98c045ccae1f9795999e7533:
+        m_Texture: {fileID: 2800000, guid: 9ba509c34d0064d46aef8291ebfc5bab, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_ea7c912782d7432486d3e37beaf014b6:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_eb74b36c2323448c812de223b7db00b3:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BaseMap:
+        m_Texture: {fileID: 2800000, guid: 82d457a30dd3ba64fa6e5680fc99e887, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EyeMask:
+        m_Texture: {fileID: 2800000, guid: 5538d87a50c7ec54d831c46ca251b67b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _HeightMap:
+        m_Texture: {fileID: 2800000, guid: b4937f46d4f0ee84ea0ec4baacd60567, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _IrisMask:
+        m_Texture: {fileID: 2800000, guid: 7fa68cfc516cf8d4f9eab56101a39bc3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _IrisParallaxNormalMap:
+        m_Texture: {fileID: 2800000, guid: 8520e5778f83b904f9d6419868ba9ecd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _IrisTangentMap:
+        m_Texture: {fileID: 2800000, guid: 8520e5778f83b904f9d6419868ba9ecd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskMap:
+        m_Texture: {fileID: 2800000, guid: ff0dd5cc48478a6499e260b882b0131b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: b98695a77e365b94e945cf40196a5d50, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormapMap:
+        m_Texture: {fileID: 2800000, guid: b98695a77e365b94e945cf40196a5d50, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_c76199476d029787ab34f515ab599043_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 788c0c199b4ff5343a7c2fd771b5f1dc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ScleraSO:
+        m_Texture: {fileID: 2800000, guid: 5f54b1cc90a614148ad37f3048d7d715, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecularOcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TangentMap:
+        m_Texture: {fileID: 2800000, guid: 006982230a58b2e4da0cfee172cba9f8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - Vector1_00bdf6d941bb49d0b9b5751d563a0e9c: 0
+    - Vector1_105182057ddd40f38af3734f8dbfd066: 1
+    - Vector1_4ffe410b36404a64bf56752b8d6c7ca9: 0.232
+    - Vector1_55450e6fbb7443b7ae61a73183eb63ee: 0.723
+    - Vector1_586dbc0944374b01be2c5b1ad40e005d: 0.69
+    - Vector1_6c9335c1308f4eb29f00467383adf52e: 5.8
+    - Vector1_77926035b14c458c9392a8c4b2753a07: 2
+    - Vector1_87a2344850524daaa44fc698399b6e37: 0
+    - Vector1_9d2f4317ebcb4c1f892238e6b532e48b: 0.92
+    - Vector1_a5e3f0e5bc1a45d5be1439afba641025: 0.506
+    - Vector1_afdd604e0e6345b19da52819a3ffb821: -1.68
+    - Vector1_cf0d14122f444bbfa097ad358762a588: 0.107
+    - Vector1_f360f1bb178947afba7ba4bf8aa5ed21: 0.013
+    - _AlphaClip: 0
+    - _Blend: 0
+    - _CastShadows: 1
+    - _Cull: 2
+    - _DstBlend: 0
+    - _EyeAnterionChamberDepth: 0
+    - _EyeDepth: 1
+    - _EyeIOR: 0.641
+    - _EyeLimbusShift: 0
+    - _EyeLimbusSlope: 0.042
+    - _EyeRadius: 0.444
+    - _HeightScale: 6.36
+    - _IrisNormalStrength: 0.5
+    - _IrisSize: 0.287
+    - _IrisSizeOffset: -0.303
+    - _LimbusSlope: 0.01
+    - _Limbus_Shift: 0
+    - _OcclusionStrength: 0.511
+    - _OcclussionStrength: 0
+    - _ParallaxStrength: 0
+    - _PupilMaskSize: 0.393
+    - _PupilOffset: 0.844
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _ReceiveShadows: 1
+    - _ScleraNormalStrength: 0.141
+    - _Smoothness: 0.802
+    - _SrcBlend: 1
+    - _Surface: 0
+    - _TangentMapStrength: 1
+    - _TangentStrength: 0
+    - _WorkflowMode: 1
+    - _ZTest: 4
+    - _ZWrite: 1
+    - _ZWriteControl: 0
+    m_Colors:
+    - Color_5bc0b9869b4849f0a046c3a657740168: {r: 0.61, g: 0.54534, b: 0.54534, a: 0}
+    - Vector4_cb7746a2f4b444e98599c8741b5998b4: {r: 0, g: 0, b: 1, a: 0}
+    - _ColorOcclusion: {r: 0.504, g: 0.504, b: 0.504, a: 0}
+    - _EyeLookVector: {r: 0, g: 0, b: 1, a: 0}
+    - _LookVector: {r: 0, g: 0, b: 1, a: 0}
+    - _OcclusionMapTilingOffset: {r: -30, g: 30, b: 0.59, a: 0.36}
+    - _OcclusionTint: {r: 0.504, g: 0.504, b: 0.504, a: 0}
+    - _Pupil_Color: {r: 0.46099997, g: 0.2995075, b: 0, a: 0}
+    - _Specular_Color: {r: 0.3396226, g: 0.3396226, b: 0.3396226, a: 0}
+  m_BuildTextureStacks: []
